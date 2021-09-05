@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhangVoT
 - 👀 I’m interested in cars and motorcycles.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on GitHub
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me KhangVoT@gmail.com
 
 <!---
