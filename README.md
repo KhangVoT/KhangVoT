@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khang
+- 👋 Hi, I’m Khang.
 - 👀 I’m interested in automation.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on GitHub.
