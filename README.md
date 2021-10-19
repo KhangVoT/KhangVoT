@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khang.
 - 👀 I’m interested in automation.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Geophysics.
 - 💞️ I’m looking to collaborate on GitHub.
 - 📫 How to reach me KhangVoT@gmail.com
 
